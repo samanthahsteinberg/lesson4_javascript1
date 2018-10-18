@@ -4,22 +4,21 @@
 Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+(October 17, 2018)
 
 ### Student Name:  
-(First and Last Name)
+(Samantha Steinberg)
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+(This assignment introduced Javascript into the curriculum and allowed me to get comfortable and practice with Javascrpit along with other concepts learned earlier in the course.)
 
 ### View Project:
-(Replace this statement with your GitHub Page URL that was created when you 
- published the project.)
+(https://samanthahsteinberg.github.io/lesson4_javascript1/)
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. (Learned what a variable in Javascript does/means.)
+2. (Learned the basics of Javascript and how it enhances website design and functionality.)
+3. (Learned that Javascript is inputted into HTML by the <script> key.)
 
 
 
